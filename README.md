@@ -33,7 +33,7 @@ Your password is: jR%Tn0qYa#z5
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pypassword-generator.git
+   git clone https://github.com/bhavani-builds/pypassword-generator.git
    cd pypassword-generator
    ```
 
